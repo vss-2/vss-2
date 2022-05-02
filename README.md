@@ -25,7 +25,11 @@
 
 # 📔️ Contact
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Connect with me](https://www.linkedin.com/in/vitor-sousa-153314187)
+![Connect with me](https://www.linkedin.com/in/vitor-sousa-153314187) <br>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  <br> <br>
+![Check my LeetCode Profile](https://leetcode.com/vss-2/) <br>
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+
 
 # 🤔️ I'm currently learning
 ### I've been studying Golang, GraphQL and Competitive Programming Skills.
