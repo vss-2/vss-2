@@ -1,7 +1,7 @@
 # Hello, I'm Vitor, 
 ## a brazilian Computer Science undergraduate student at UFPE
 
-### [Curriculum in PDF](https://github.com/vss-2/vss-2/blob/80ca493c45329045a7a971086e098f2fa7395677/Curriculum.pdf)
+### [Curriculum in PDF](https://raw.githubusercontent.com/vss-2/vss-2/main/Curriculum.pdf)
 
 
 ## About me
