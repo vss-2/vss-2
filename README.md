@@ -1,7 +1,10 @@
 # Hello, I'm Vitor, 
 ## a brazilian Computer Science undergraduate student at UFPE
-<br>
 
+### [Curriculum in PDF](https://github.com/vss-2/vss-2/blob/80ca493c45329045a7a971086e098f2fa7395677/Curriculum.pdf)
+
+
+## About me
 ### Here are some 👨‍💻️ technologies that I like to use for software development
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,9 +16,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vss-2&layout=compact&hide=Jupyter%20Notebook,C,C%2b%2b)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
 
 # 🛠️ Tools I'm used to work with
 
