@@ -1,5 +1,5 @@
-# Hello, I'm Vitor
-### a brazilian Computer Science undergraduate student at UFPE
+# Hello, I'm Vitor Sousa,
+### 🇧🇷️ Software Engineer, BSc-CS @ UFPE.
 ## here's my coding skills [resume](https://github.com/vss-2/resume)
 
 
@@ -10,48 +10,31 @@
 ### Here are some 👨‍💻️ technologies that I like to use for software development
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Java](https://img.shields.io/badge/openjdk-ffffff.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/Golang-%23000000.svg?style=for-the-badge&logo=go&logoColor=%#00ADD8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-dc382d.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 # 🛠️ Tools I'm used to work with
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-fcc624.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 <br><br>
 
-# 🤔️ I'm currently learning
-### I've been studying [backend architecture](https://roadmap.sh/backend) and Competitive Programming Skills.
-<br>
-
-## 😄 Thanks for visiting and reading my profile feel free to contact me about anything 📔️
-
+# 💬️ How to reach me
 [Connect with me](https://www.linkedin.com/in/vitor-sousa-153314187) <br>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)  <br> <br>
 [Check my LeetCode Profile](https://leetcode.com/vss-2/) <br>
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) <br> <br>
 
-<!--
-**vss-2/vss-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🖋️ Courses I've done
+[My public profile at Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/cf82b4d2-df35-4d0f-8c2a-57656cf68a22) <br>
+![Google Cloud](https://img.shields.io/badge/google_cloud-4788f2?style=for-the-badge&logo=googlecloud&logoColor=white)
+<br> <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🤝️ Open-source contributions
+* 2023: Recently I've been contributing to [IPEA-GeoBR](https://github.com/ipeaGIT/geobr) by fixing some of their issues. I'm not related to this institution. <br>
+* I'm always glad to help. Feel free to reach me if you think I could be useful to your project!
